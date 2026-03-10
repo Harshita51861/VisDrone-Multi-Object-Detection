@@ -1,0 +1,22 @@
+VisDrone Dataset
+      ↓
+Data Preprocessing
+(Image resizing, normalization, annotation parsing)
+      ↓
+Feature Extraction
+(Deep CNN backbone)
+      ↓
+Object Detection Model
+(YOLO / Deep Learning Detector)
+      ↓
+Bounding Box Prediction
+(Class + Confidence Score)
+      ↓
+Object Tracking
+(Assign unique ID across frames)
+      ↓
+Visualization
+(Bounding boxes + labels on video frames)
+      ↓
+Output Results
+(Annotated video / detection images)
