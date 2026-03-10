@@ -20,5 +20,3 @@ http://aiskyeye.com
 ## Output
 The model detects objects such as cars, pedestrians, bicycles, and buses from drone images.
 
-## Author
-Bharkavi P M
